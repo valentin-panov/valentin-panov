@@ -7,16 +7,14 @@ Have experience in UI development. Now I do my postgrad work in my Uni https://n
 Now I am improving my knowledge in Typescript, React, SASS. 
 I am open for internship/part-time offers.
 
-My current stack:
-
-JavaScript (ES5, ES6+), TypeScript;
+My current stack: JavaScript (ES5, ES6+), TypeScript;
 React/Redux-ReduxToolkit;
+ESlint/Prettier;
 HTML+CSS;
 Sass/Less;
 WebPack 5+;
 Figma/Avocode/AdobeCC;
 Node.js;
-ESlint/Prettier;
 Jest;
 Git;
 CI/CD, Appveyor/Heroku;

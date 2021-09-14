@@ -7,6 +7,18 @@ Have experience in UI development. Now I do my postgrad work in my Uni https://n
 Now I am improving my knowledge in Typescript, React, SASS. 
 I am open for internship/part-time offers.
 
+My current stack:
+JavaScript (ES5, ES6+), TypeScript;
+WebPack 5+;
+Figma/Avocode/AdobeCC;
+Node.js;
+React/Redux-ReduxToolkit
+ESlint/Prettier;
+Jest;
+Git;
+Sass/Less;
+HTML+CSS;
+
 ![Valentin Panov's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentin-panov)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentin-panov&layout=compact)

@@ -8,16 +8,18 @@ Now I am improving my knowledge in Typescript, React, SASS.
 I am open for internship/part-time offers.
 
 My current stack:
+
 JavaScript (ES5, ES6+), TypeScript;
+React/Redux-ReduxToolkit;
+HTML+CSS;
+Sass/Less;
 WebPack 5+;
 Figma/Avocode/AdobeCC;
 Node.js;
-React/Redux-ReduxToolkit
 ESlint/Prettier;
 Jest;
 Git;
-Sass/Less;
-HTML+CSS;
+CI/CD, Appveyor/Heroku;
 
 ![Valentin Panov's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentin-panov)
 

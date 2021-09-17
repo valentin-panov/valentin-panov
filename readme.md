@@ -1,12 +1,12 @@
 Welcome to my GH collection. I'm in web development since 2020.
 
-I work as an architect in the internal medical information system (based on Java) since 2010 for Sokolov Scientific and Clinical Center, Saint-Petersburg, Russia (www.med122.com).
+I work as an architect of an internal medical information system (based on Java) since 2010 for Sokolov Scientific and Clinical Center, Saint-Petersburg, Russia (www.med122.com).
 
 Have experience in UI development. Now I do my postgrad work in my Uni https://netology.ru/ and contribute to educational platform Math1.0 https://github.com/spirit-drive/education-raw
 
 I am open for internship/part-time offers.
 
-My current stack:
+#### My current stack:
  JavaScript (ES5, ES6+), TypeScript;
  React/Redux-ReduxToolkit;
  HTML+CSS;

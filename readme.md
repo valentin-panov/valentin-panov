@@ -4,20 +4,21 @@ I work as an architect in the internal medical information system (based on Java
 
 Have experience in UI development. Now I do my postgrad work in my Uni https://netology.ru/ and contribute to educational platform Math1.0 https://github.com/spirit-drive/education-raw
 
-Now I am improving my knowledge in Typescript, React, SASS. 
 I am open for internship/part-time offers.
 
-My current stack: JavaScript (ES5, ES6+), TypeScript;
+My current stack:
+
+JavaScript (ES5, ES6+), TypeScript;
 React/Redux-ReduxToolkit;
-ESlint/Prettier;
 HTML+CSS;
 Sass/Less;
-WebPack 5+;
-Figma/Avocode/AdobeCC;
-Node.js;
+ESlint/Prettier;
 Jest;
+WebPack 5+;
+Node.js;
 Git;
 CI/CD, Appveyor/Heroku;
+Figma/Avocode/AdobeCC;
 
 ![Valentin Panov's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentin-panov)
 

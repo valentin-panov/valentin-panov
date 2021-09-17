@@ -6,7 +6,7 @@ Have experience in UI development. Now I do my postgrad work in my Uni https://n
 
 I am open for internship/part-time offers.
 
-# My current stack:
+My current stack:
  JavaScript (ES5, ES6+), TypeScript;
  React/Redux-ReduxToolkit;
  HTML+CSS;

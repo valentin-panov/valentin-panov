@@ -6,19 +6,18 @@ Have experience in UI development. Now I do my postgrad work in my Uni https://n
 
 I am open for internship/part-time offers.
 
-My current stack:
-
-JavaScript (ES5, ES6+), TypeScript;
-React/Redux-ReduxToolkit;
-HTML+CSS;
-Sass/Less;
-ESlint/Prettier;
-Jest;
-WebPack 5+;
-Node.js;
-Git;
-CI/CD, Appveyor/Heroku;
-Figma/Avocode/AdobeCC;
+#My current stack:
+ JavaScript (ES5, ES6+), TypeScript;
+ React/Redux-ReduxToolkit;
+ HTML+CSS;
+ Sass/Less;
+ ESlint/Prettier;
+ Jest;
+ WebPack 5+;
+ Node.js;
+ Git;
+ CI/CD, Appveyor/Heroku;
+ Figma/Avocode/AdobeCC;
 
 ![Valentin Panov's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentin-panov)
 

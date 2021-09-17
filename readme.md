@@ -11,8 +11,8 @@ My current stack:
  React/Redux-ReduxToolkit;
  HTML+CSS;
  Sass/Less;
- ESlint/Prettier;
  Jest;
+ ESlint/Prettier/Stylelint;
  WebPack 5+;
  Node.js;
  Git;

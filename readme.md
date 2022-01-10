@@ -4,11 +4,11 @@ I work as an architect of an internal medical information system (based on Java)
 
 Have experience in UI development. Now I do my postgrad work in my Uni https://netology.ru/ and contribute to educational platform Math1.0 https://github.com/spirit-drive/education-raw
 
-I am open for internship, part-time and full-time offers. LinkedIn profile: https://www.linkedin.com/in/valentin-panov/
+LinkedIn profile: https://www.linkedin.com/in/valentin-panov/
 
 #### My current stack:
  JavaScript (ES5, ES6+), TypeScript;
- React/Redux-ReduxToolkit;
+ React/Next/Redux-ReduxToolkit;
  HTML+CSS;
  Sass/Less;
  Jest;

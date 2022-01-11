@@ -1,8 +1,8 @@
-Welcome to my GH collection. I'm in web development since 2020.
+Welcome to my GH collection.
 
 I work as an architect of an internal medical information system (based on Java) since 2010 for Sokolov Scientific and Clinical Center, Saint-Petersburg, Russia (www.med122.com).
 
-Have experience in UI development. Now I do my postgrad work in my Uni https://netology.ru/ and contribute to educational platform Math1.0 https://github.com/spirit-drive/education-raw
+Now I do my postgrad work in my Uni https://netology.ru/ and contribute to educational platform Math1.0 https://github.com/spirit-drive/education-raw
 
 LinkedIn profile: https://www.linkedin.com/in/valentin-panov/
 

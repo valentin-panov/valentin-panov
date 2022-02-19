@@ -19,6 +19,8 @@ LinkedIn profile: https://www.linkedin.com/in/valentin-panov/
  CI/CD, Appveyor/Heroku;
  Figma/Avocode/AdobeCC;
 
+![CodeWars](https://www.codewars.com/users/vpanov/badges/small)
+
 ![Valentin Panov's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentin-panov)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentin-panov&layout=compact)

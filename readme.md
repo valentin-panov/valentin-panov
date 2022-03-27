@@ -1,10 +1,5 @@
-Welcome to my GH collection.
-
 #### Current position:
 Middle frontend developer in a small fronted team, working for FlyWert (www.flywert.com)
-
-#### Past experience:
-The architect and QA of an internal medical information system (based on Java) since 2010 for Sokolov Scientific and Clinical Center, Saint-Petersburg, Russia (www.med122.com).
 
 #### Side hustles:
 

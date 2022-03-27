@@ -3,7 +3,7 @@ Middle frontend developer in a small fronted team, working for FlyWert (www.flyw
 
 #### Side hustles:
 
-Postgrad work in my Uni https://netology.ru/ 
+Graduate student in my Uni https://netology.ru/ 
 
 Open-source project Math1.0 https://github.com/spirit-drive/education-raw
 

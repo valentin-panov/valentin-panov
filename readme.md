@@ -1,5 +1,5 @@
 #### Current position:
-Middle frontend developer in a small fronted team, working for FlyWert (www.flywert.com)
+Middle frontend developer
 
 #### Side hustles:
 
@@ -10,6 +10,8 @@ Open-source project Math1.0 https://github.com/spirit-drive/education-raw
 #### My current stack:
  JavaScript (ES5, ES6+), TypeScript;
  React/Next/Redux-ReduxToolkit;
+ JavaEE, Spring-Boot;
+ JSP, Thymeleaf, PostgreSQL;
  HTML+CSS;
  Sass/Less;
  Jest;

@@ -1,5 +1,5 @@
 #### Current position:
-Middle frontend developer
+Application security analyst
 
 #### Side hustles:
 

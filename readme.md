@@ -3,7 +3,7 @@ Application security analyst
 
 #### Side hustles:
 
-Front-End team lead in Flywert startup http://www.flywert.com
+Front-End team lead in Flywert startup http://flywert.com
 
 Graduate student in my Uni https://netology.ru/ 
 

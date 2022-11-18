@@ -12,7 +12,7 @@ Open-source project Math1.0 https://github.com/spirit-drive/education-raw
 #### My current stack:
  JavaScript (ES5, ES6+), TypeScript;
  React/Next/Redux-ReduxToolkit;
- Python,
+ Python;
  Java Spring MVC, Spring Boot;
  JSP, Thymeleaf, PostgreSQL;
  HTML+CSS;

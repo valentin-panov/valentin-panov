@@ -31,6 +31,6 @@ LinkedIn profile: https://www.linkedin.com/in/valentin-panov/
 
 ![CodeWars](https://www.codewars.com/users/vPanov/badges/small)
 
-![Valentin Panov's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentin-panov)
+![Valentin Panov's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentin-panov&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentin-panov&layout=compact)

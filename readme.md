@@ -1,7 +1,7 @@
-#### Current position:
+### Current position:
 Application security analyst
 
-#### Side hustles:
+### Side hustles:
 
 Front-End team lead in Flywert startup http://flywert.com
 
@@ -9,7 +9,7 @@ Graduate student in my Uni https://netology.ru/
 
 Open-source project Math1.0 https://github.com/spirit-drive/education-raw
 
-#### My current stack:
+### My current stack:
  JavaScript (ES5, ES6+), TypeScript;
  React/Next/Redux-ReduxToolkit;
  Python;
@@ -25,7 +25,7 @@ Open-source project Math1.0 https://github.com/spirit-drive/education-raw
  CI/CD, Appveyor/Heroku;
  Figma/Avocode/AdobeCC;
 
-#### More information here:
+### More information here:
 LinkedIn profile: https://www.linkedin.com/in/valentin-panov/
 
 
@@ -43,4 +43,17 @@ LinkedIn profile: https://www.linkedin.com/in/valentin-panov/
 <img src="https://github-readme-stats-valentin-panov.vercel.app/api?username=valentin-panov&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats-valentin-panov.vercel.app/api/top-langs/?username=valentin-panov&layout=compact)
+
+<picture>
+<source 
+  srcset="https://github-readme-stats-valentin-panov.vercel.app/api/top-langs/?username=valentin-panov&layout=compact&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-valentin-panov.vercel.app/api/top-langs/?username=valentin-panov&layout=compact"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats-valentin-panov.vercel.app/api/top-langs/?username=valentin-panov&layout=compact" />
+</picture>
+
+<!-- ![Top Langs](https://github-readme-stats-valentin-panov.vercel.app/api/top-langs/?username=valentin-panov&layout=compact) -->

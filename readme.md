@@ -20,7 +20,7 @@ Open-source project Math1.0 https://github.com/spirit-drive/education-raw
  WebPack 5+;
  Node.js;
  Git;
- CI/CD, Appveyor/Heroku;
+ CI/CD, Vercel/Appveyor/Heroku;
  Figma/Avocode/AdobeCC;
 
 ### More information here:

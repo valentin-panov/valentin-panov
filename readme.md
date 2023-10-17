@@ -3,9 +3,7 @@ Application security engineer
 
 ### Side hustles:
 
-Graduate student in my Uni https://netology.ru/ 
-
-Open-source project Math1.0 https://github.com/spirit-drive/education-raw
+Сonduct research in the field of web application security and assist open-source projects in addressing security vulnerabilities.
 
 ### My current stack:
  JavaScript (ES5, ES6+), TypeScript;

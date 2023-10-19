@@ -1,5 +1,5 @@
 ### Current position:
-Application security engineer 
+Application Security Engineer 
 
 ### Side hustles:
 

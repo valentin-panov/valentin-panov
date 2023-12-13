@@ -11,15 +11,9 @@ Senior Application Security Engineer
  Python;
  Java Spring MVC, Spring Boot;
  JSP, Thymeleaf, PostgreSQL;
- HTML+CSS;
- Sass/Less;
- Jest;
- ESlint/Prettier/Stylelint;
- WebPack 5+;
  Node.js;
- Git;
- CI/CD, Vercel/Appveyor/Heroku;
- Figma/Avocode/AdobeCC;
+ Vercel/Appveyor/Heroku;
+
 
 ### More information here:
 LinkedIn profile: https://www.linkedin.com/in/valentin-panov/
